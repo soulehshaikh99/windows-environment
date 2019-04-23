@@ -1,0 +1,18 @@
+{
+  "name": "windows-environment",
+  "version": "1.0.0",
+  "description": "A powerful library to manage Environment Variables on Windows using Node.JS",
+  "main": "index.js",
+  "author": "Souleh Shaikh",
+  "license": "MIT",
+  "types": "windows-environment.d.ts",
+  "keywords": ["environment", "variable", "env-library", "windows", "node-js", "csharp", "electron"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soulehshaikh99/windows-environment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soulehshaikh99/windows-environment/issues"
+  },
+  "homepage": "https://github.com/soulehshaikh99/windows-environment"
+}
